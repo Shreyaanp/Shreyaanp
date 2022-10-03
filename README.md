@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shreyaan-pradhan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shreyaan-pradhan" /></a>
-<a href="mailto:alok27a@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>
+<a href="https://www.linkedin.com/in/shreyaan-pradhan/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shreyaan-pradhan" /></a>
+<a href="mailto:shreyaan.9it@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>
   <a href="https://t.me/Alokmathur" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
