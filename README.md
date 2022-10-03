@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrey</h1>
+<h1 align="center">Hi 👋, I'm Shreyaan Pradhan</h1>
 <h3 align="center">A passionate frontend web developer💻,android app developer📱& coding enthusiast 👨‍<br> Always keen to learn new things📚</h3>
 
 - 🎓 Pursuing B.Tech. in Computer Science Engineering <br>from Vellore Institute of Technology, Vellore
