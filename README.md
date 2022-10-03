@@ -45,4 +45,4 @@
 ## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-:pushpin: Liked this introduction? You can also make similar for yourself. Star⭐ and Fork this **[README](https://github.com/alok27a/alok27a)** :pencil:
+:pushpin: Liked this introduction? You can also make similar for yourself. Star⭐ and Fork this **[README](https://github.com/Shreyaanp/Shreyaanp)** :pencil:
