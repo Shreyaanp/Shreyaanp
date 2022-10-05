@@ -26,9 +26,3 @@
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android-studio"/> </a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="android-studio"/> </a> 
 </p>
-## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Shreyaanp&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaanp&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
-## ✍️ Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-:pushpin: Liked this introduction? You can also make similar for yourself. Star⭐ and Fork this **[README](https://github.com/alok27a/alok27a)** :pencil:
